@@ -1,0 +1,24 @@
+/*Menu tra le pagine */
+nav ul{
+    display: flex;
+    gap: 20px;
+}
+
+nav a{
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: rgba(113, 211, 250, 0.933);
+}
+/*-----------------------------------------*/
+/*classe film in index.html*/
+.film{
+    display: flex;
+}
+/*------------------------------------------*/
+/*tabella con bordi uniti*/
+table{
+    border-collapse: collapse;
+}
+/*----------------------------------------*/
